@@ -1,0 +1,15 @@
+escribe S
+saltan P
+es S
+manejan P
+corta S
+escuchan P
+vuela S
+toman P
+escucha S
+tocan P
+
+
+
+
+

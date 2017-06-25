@@ -1,0 +1,21 @@
+vaso M 
+
+ave F 
+
+casa F 
+
+computador M 
+
+mesa F 
+
+auto M 
+
+guitarra F 
+
+lampara F
+
+carpeta F
+
+
+
+

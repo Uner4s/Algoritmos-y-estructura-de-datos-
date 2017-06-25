@@ -1,0 +1,17 @@
+rapida  F
+
+rapido  M
+
+grande  M
+
+bonita F
+
+feo  M
+
+agradable M/F
+
+bonito  M
+
+aburrido  M
+
+gigante M/F

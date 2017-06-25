@@ -1,0 +1,13 @@
+vaso M S V
+ave F S V
+casa F S V
+computador M S C
+mesa F S V
+auto M S V
+guitarra F S V
+lampara F S V
+flor F P C
+
+
+
+

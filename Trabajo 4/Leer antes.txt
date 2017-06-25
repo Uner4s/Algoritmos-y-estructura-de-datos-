@@ -1,0 +1,25 @@
+Bienvenido al tutorial e informador.
+
+
+
+1.- El programa al momento de ejecutarse, pedirá el nombre del archivo
+    y no se abrirá hasta que se ingrese un nombre correcto.
+
+2.- El menú se mostrará al momento de ingresar un nombre correcto, las
+    opciones son numéricas(tipo entero), si se produce un error por ingresar 
+    una letra es problema del usuario ya que se le informó.	
+
+3.- El programa crea su propio archivo "Palabras" despues de leer el original,
+    que contiene palabra y frecuencia ya modificado para el por eso ese archivo no se toca.
+
+4.- El archivo "asd" es un archivo que se crea tambien al momento
+    de ejecutarlo, por eso tampoco se debe tocar.
+
+5.- Hay un archivo llamado "Pal" que contiene todas las palabras que son
+    las excepciones, por lo tanto tampoco se debe tocar.
+
+6.- Este archivo no es parte del programa, al modificarlo no
+    lo afectaria.
+
+7.- Esta el archivo "prueba.txt" que contiene un texto por si
+    se desea proba r el programa con un archivo pequeño.

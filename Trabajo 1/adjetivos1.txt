@@ -1,0 +1,15 @@
+rapido S M
+
+grande S M
+
+bonita S F
+
+feo S M
+
+agradable S 
+
+bonito S M
+
+aburrido S M
+
+gigante S  
